@@ -1,5 +1,5 @@
 # Tiến trình:
-- Hoàn thành xong phần collect data.
+- Hoàn thành xong phần collect data (đã cập nhật lại phần dữ liệu của track.csv và playlist.csv).
   
 # Lưu ý:
 - Đồ án thực hiện trên máy Window
