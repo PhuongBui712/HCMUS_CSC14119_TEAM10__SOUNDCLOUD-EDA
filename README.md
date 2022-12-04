@@ -1,5 +1,7 @@
 # Tiến trình:
 - Hoàn thành xong phần collect data (đã cập nhật lại phần dữ liệu của track.csv và playlist.csv).
+- Hoàn thành xong phần EDA
+- Hoàn thành xong phần Reference
   
 # Lưu ý:
 - Đồ án thực hiện trên máy Window
